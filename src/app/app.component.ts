@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: [ './app.component.css' ]
 })
 export class AppComponent  {
-  name = 'Mylsamy';
+  name = 'MylsamyTest';
   months = ["January", "Feburary", "March", "April", "May","June", "July", "August", "September","October", "November", "December"];
   isavailable = false;
 
