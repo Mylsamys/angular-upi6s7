@@ -8,7 +8,7 @@ import { ChangeTextDirective } from './change-text.directive.spec';
 
 @NgModule({
   imports:      [ BrowserModule, FormsModule ],
-  declarations: [ AppComponent, HelloComponent ],
+  declarations: [ AppComponent, HelloComponent,ChangeTextDirective ],
   bootstrap:    [ AppComponent ]
 })
 export class AppModule { }
